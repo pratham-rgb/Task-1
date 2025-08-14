@@ -1,0 +1,115 @@
+🖥️ File and Directory Management
+
+These commands are used for navigating the file system and manipulating files and folders.
+
+    ls: List files and directories.
+
+    ls -a: List all files, including hidden ones.
+
+    ls -l: List files with detailed information.
+
+    cd: Change directory.
+
+    cd ..: Move up one directory level.
+
+    cd ~: Go to your home directory.
+
+    pwd: Print the current working directory.
+
+    mkdir: Create a new directory.
+
+    rmdir: Remove an empty directory.
+
+    touch: Create a new, empty file.
+
+    cp: Copy a file or directory.
+
+    mv: Move or rename a file or directory.
+
+    rm: Remove (delete) a file.
+
+    rm -r: Remove a directory and its contents.
+
+    cat: Display the entire contents of a file.
+
+    head: Display the first few lines of a file.
+
+    tail: Display the last few lines of a file.
+
+    less: View file contents with scrolling.
+
+    find: Search for files and directories.
+
+    grep: Search for a specific pattern in a file.
+
+    echo: Print text to the terminal.
+
+🛡️ Permissions and Ownership
+
+These commands are for managing user access and file permissions.
+
+    chmod: Change file permissions.
+
+    chown: Change a file's owner and group.
+
+    sudo: Execute a command with administrator privileges.
+
+    passwd: Change a user's password.
+
+    useradd: Add a new user to the system.
+
+    userdel: Delete a user from the system.
+
+    whoami: Display your current username.
+
+    su: Switch to another user.
+
+💻 System Information and Processes
+
+These commands give you information about your system and help you manage running applications.
+
+    ps: List currently running processes.
+
+    top: Display real-time system resource usage and processes.
+
+    htop: An improved, interactive version of top.
+
+    kill: Terminate a process by its Process ID (PID).
+
+    df: Display disk space usage.
+
+    du: Display disk usage for a file or directory.
+
+    uname: Display system information, like kernel version.
+
+    uptime: Show how long the system has been running.
+
+    free: Show memory and swap usage.
+
+    date: Display or set the system date and time.
+
+    cal: Show a calendar.
+
+    clear: Clear the terminal screen.
+
+    history: Show a list of recently used commands.
+
+🌐 Networking
+
+These commands are essential for troubleshooting network issues.
+
+    ping: Test network connectivity to a host.
+
+    ifconfig: Display or configure network interfaces.
+
+    ip a: A modern replacement for ifconfig.
+
+    netstat: Display network connection information.
+
+    ssh: Connect to a remote server securely.
+
+    scp: Securely copy files between systems.
+
+    wget: Download files from the internet using HTTP/FTP.
+
+    curl: Transfer data using URL syntax.
